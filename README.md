@@ -1,6 +1,6 @@
 # SEO Help Web Page
 
-> ## [Mansi Gupta](hthttps://twitter.com/butwhymansi)
+> ## [Mansi Gupta](https://twitter.com/butwhymansi)
 
 <br/>
 
@@ -16,7 +16,7 @@
 ### _Live Hosted Link 🚀_ : _[Portfolio Web Page](https://trend-in-2025.netlify.app/)_
 
 ## How the website looks like:
-![Look](./thumbnail.png)
+![Look](thumbnail.png)
 
 ## My Learnings
 
