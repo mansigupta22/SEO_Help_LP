@@ -18,7 +18,6 @@
 ## How the website looks like:
 ![Look](./thumbnail.png)
 
-
 ## My Learnings
 
 -   Skills Gained in this project
