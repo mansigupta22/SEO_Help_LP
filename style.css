@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap");
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", cursive;
+}
+body{
+    overflow: hidden;
+}
+
+/* ------------------- */
+/* ------Navbar------ */
+/* ----------------- */
+
+.navbar-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2.5rem;
+}
+.navbar-container img{
+    height: 45px;
+    margin-left: 5rem;
+}
+.grow-list{
+    margin-left: -22rem
+}
+.list{
+    display: flex;
+    list-style: none;
+    gap: 25px;
+    color: #a8a5a5;
+    font-weight: 400;
+    cursor: pointer;
+}
+.list .list-item:nth-child(1){
+    color: #383838;
+    font-weight: 600;
+}
+button{
+    background-color: #5955B3;
+    color: #FFFFFF;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 15px;
+    margin-right: 4rem;
+    margin-left: 7rem;
+    font-size: 0.9rem;
+    font-weight: 400;
+    cursor: pointer;
+}
+/* ------------------- */
+/* ------Banner------ */
+/* ----------------- */
+.banner-container{
+    display: flex;
+}
+.heading-text{
+    font-size: 4.2rem;
+    font-weight: 600;
+    margin: 5rem 7rem;
+    color: #3C2F60;
+    line-height: 5.2rem;
+}
+.heading-text span{
+    color:#5955B3;
+}
+.description{
+    margin: -3.5rem 9rem 3rem 7.4rem;
+    color: #a8a5a5;
+}
+/* ------------------ */
+/* -----Right------- */
+/* ---------------- */
+div img{
+    height: 600px
+}
